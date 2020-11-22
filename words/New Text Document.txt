@@ -1,0 +1,10 @@
+
+3         882
+4        2485
+5        6865
+6 harfli 7172 adet kelime bulunuyor
+7 harfli 8737 adet kelime bulunuyor
+8 harfli 9288 adet kelime bulunuyor
+9 harfli 6933 adet kelime bulunuyor
+
+total = 42362

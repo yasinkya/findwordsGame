@@ -1,0 +1,21 @@
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Kelime Bul.exe.config
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Kelime Bul.exe
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Kelime Bul.pdb
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.form2.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Kelime_Bul.Properties.Resources.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Kelime_Bul.csproj.GenerateResource.cache
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Kelime_Bul.csproj.CoreCompileInputs.cache
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Kelime Bul.exe
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Kelime Bul.pdb
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\bin\Debug\Kelime Bul.exe.config
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\bin\Debug\Kelime Bul.exe
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\bin\Debug\Kelime Bul.pdb
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime_Bul.csprojAssemblyReference.cache
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Yazılım_Yapımı_Ödev.form2.resources
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime_Bul.Properties.Resources.resources
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime_Bul.csproj.GenerateResource.cache
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime_Bul.csproj.CoreCompileInputs.cache
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime Bul.exe
+C:\Users\Kaya\Desktop\projects\cs_p\Kelime Bulma c# - proje dizini\findWord\obj\Debug\Kelime Bul.pdb

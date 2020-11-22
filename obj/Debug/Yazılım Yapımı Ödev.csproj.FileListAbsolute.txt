@@ -1,0 +1,33 @@
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe.config
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csprojAssemblyReference.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Properties.Resources.resources
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.GenerateResource.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.form2.resources
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe.config
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csprojAssemblyReference.cache
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.form2.resources
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Properties.Resources.resources
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.GenerateResource.cache
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\Desktop\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe.config
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csprojAssemblyReference.cache
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.form2.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Properties.Resources.resources
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.GenerateResource.cache
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\Desktop\Kelime Bulma\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.pdb

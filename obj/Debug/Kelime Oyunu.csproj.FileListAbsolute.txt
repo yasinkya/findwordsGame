@@ -1,0 +1,10 @@
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe.config
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\bin\Debug\Yazılım Yapımı Ödev.pdb
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Kelime Oyunu.csprojAssemblyReference.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Kelime_İşlem.resources
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım_Yapımı_Ödev.Properties.Resources.resources
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Kelime Oyunu.csproj.GenerateResource.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Kelime Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.exe
+C:\Users\ysn_k\source\repos\Yazılım Yapımı Ödev\Yazılım Yapımı Ödev\obj\Debug\Yazılım Yapımı Ödev.pdb

@@ -1,0 +1,28 @@
+Abd, Abı, Abi, Abu, Aca, Ace, Acı, Acu, Açı, Ada, Adı, Adl, Aet, Afi, Aft, Aga, Agu, Ağa, Ağı, Ağu, Aha, Ahd, Ahi, Ahu, Ait, Aka, Akı, Aks, Akü, Alg, Alk, Alo, Alp, Alt, Ana, And, Anı, Ani, Ano, Ant, Apa, Ara, Arı, Ark, Arp, Arş, Art, Arz, Asa, Ası, Asi, Ask, Ast, Aşı, Aşk, Ata, Ate, Ati, Atm, Aut, Aya, Ayı, Ayn, Aze, Azı
+Bab, Baç, Bad, Bağ, Bak, Bal, Ban, Bap, Bar, Bas, Bas, Baş, Bat, Bav, Bay, Baz, Bed, Beğ, Bej, Bek, Bel, Ben, Beş, Bet, Bey, Bez, Bil, Bin, Bir, Bit, Biz, Bkk, Bl., Boa, Bod, Boğ, Bok, Bol, Bom, Bop, Bor, Bos, Boş, Bot, Boy, Boz, Bög, Böğ, Bön, Bre, Bul, Bun, But, Buz, Bük, Büz
+Cağ, Cah, Cam, Can, Car, Cav, Caz, Cem, Cep, Cer, Cet, Cgs, Cık, Cıs, Cız, Cif, Cim, Cin, Cip, Cop, Cud, Cuk, Cup, Cüz
+Çad, Çağ, Çak, Çal, Çam, Çan, Çap, Çar, Çat, Çav, Çay, Çeç, Çek, Çem, Çer, Çığ, Çın, Çıt, Çiğ, Çil, Çim, Çin, Çip, Çir, Çis, Çiş, Çit, Çiy, Çka, Çok, Çol, Çor, Çöl, Çöp, Çöz, Çul, Çük, Çüş, Çüt
+Dag, Dağ, Dah, Dal, Dam, Dar, Daş, Dav, Daz, Def, Deh, Dek, Dem, Den, Dev, Dış, Dik, Dil, Din, Dip, Diş, Div, Diz, Dna, Dok, Don, Doz, Döl, Döş, Dr., Dst, Dua, Dul, Dun, Duo, Dur, Duş, Dut, Duy, Dük, Dün, Düo, Dür, Düş, Düz, Dvd
+Eba, Ebe, Ece, Eci, Ecu, Eçe, Ed., Eda, Ede, Edi, Efe, Ege, Ego, Eğe, Eke, Eko, Ekü, Ela, Eli, Eme, Ena, Eni, Epe, Erg, Erk, Ese, Esi, Eşi, Eti, Evc, Evç, Eve, Evi, Eza
+Fak, Fal, Fan, Fay, Faz, Fek, Fel, Fen, Fer, Fes, Fır, Fiğ, Fil, Fin, Fiş, Fit, Fob, Fok, Fol, Fon, For, Fos, Fön, Ful, Fut, Füg
+Gaa, Gaf, Gag, Gah, Gak, Gam, Gar, Gaz, Geç, Geh, Gel, Gem, Gen, Ger, Gey, Gez, Gıç, Gık, Gır, Git, Git, Giz, God, Gol, Göç, Gök, Göl, Gön, Göt, Göz, Gri, Gun, Gut, Guy, Güç, Gül, Güm, Gün, Gür, Güz
+Hab, Hac, Haç, Haf, Hah, Ham, Han, Hap, Har, Has, Hat, Hav, Hay, Haz, Hem, Hep, Her, Hey, Hık, Hır, Hız, Hiç, Hin, His, Hiş, Hit, Hol, Hop, Hor, Hoş, Höl, Höt, Huğ, Hun, Huş, Huy, Hür, Hüt
+Ihı, Iıı, Iki, Ile, Ilı, Ilk, Ira, Iri, Irk, Irz, Isı, Işi, Iyi, Iyy
+İçi, İde, İfa, İha, İht, İik, İka, İki, İla, İle, İlk, İma, İnç, İni, İri, İrs, İse, İş], İta, İti, İye, İyi
+jel, Jen, Jet, Jig, Jin, Jip, Jön, Jul, Jül
+Kaç, Kaf, Kah, Kak, Kal, Kas, Kaş, Kat, Kav, Kay, Kaz, Kek, Kel, Kem, Kep, Ker, Kes, Keş, Ket, Key, Kez, Kıç, Kığ, Kıh, Kıl, Kın, Kır, Kış, Kıt, Kız, Kib, Kik, Kil, Kim, Kin, Kip, Kir, Kit, Koç, Kod, Kof, Koğ, Koh, Kok, Kol, Kom, Kor, Koş, Kot, Kov, Koy, Koz, Kök, Köp, Kör, Kös, Köy, Köz, Kul, Kum, Kup, Kur, Kuş, Kut, Kuz, Küf, Kül, Küp, Kür, Küs, Küt
+Lak, Lam, Lan, Lap, Laz, Leb, Lef, Leh, Lep, Leş, Ley, Lığ, Lif, Lig, Lik, Lir, Loğ, Lok, Lop, Lor, Loş, Lot, Lök, Löp, Lös, Lup, Lük, Lüp
+Maç, Mah, Mai, Mal, Man, Mas, Maş, Mat, Meç, Men, Met, Mey, Mıh, Mil, Mim, Mir, Mis, Mit, Mor, Mum, Mur, Muş, Mut, Muz, Mün
+Nal, Nam, Nan, Nas, Naş, Naz, Nem, Net, Nev, Ney, Nim, Niş, Nnb, Nom, Not, Nuh, Nuş
+Oba, Oda, Oha, Ohm, Oje, Ola, Ole, Oma, Ona, Ons, Onu, Ora, Org, Oto, Out, Ova, Oya
+Öcü, Öge, Öhö, Öib, Öke, Ölü, Önü, Örf, Örk, Örs, Örü, Öte, Öze, Özü
+Paç, Pah, Pal, Pas, Pat, Pay, Pbo, Peç, Pek, Pes, Peş, Pey, Pır, Pıt, Piç, Pik, Pil, Pim, Pin, Pir, Pis, Piş, Pli, Pof, Pog, Pop, Por, Pos, Pot, Poy, Poz, Pöç, Pöf, Puf, Pul, Pus, Put, Püf, Pür
+Rab, Raf, Ram, Rap, Ray, Ret, Rey, Rıh, Rol, Rom, Rop, Rot, Ruf, Ruh, Ruj, Rum, Run, Rus, Rün
+Sac, Saç, Saf, Sağ, Sah, Sak, Sal, Sam, San, Sap, Sat, Sav, Say, Saz, Sek, Sel, Sem, Sen, Ser, Ses, Set, Sığ, Sık, Sır, Sif, Sik, Sil, Sim, Sin, Sis, Sit, Siz, Ski, Sof, Sol, Som, Son, Sop, Sos, Soy, Sör, Söz, Spk, Spy, Sri, Suç, Sud, Sup, Sur, Sut, Suz, Süs, Süt
+Şab, Şad, Şah, Şak, Şal, Şan, Şap, Şaş, Şat, Şaz, Şeb, Şed, Şef, Şeh, Şek, Şem, Şen, Şer, Şeş, Şet, Şev, Şey, Şık, Şıp, Şia, Şif, Şii, Şip, Şir, Şiş, Şok, Şom, Şor, Şov, Şua, Şuh, Şut
+Taç, Tak, Tal, Tam, Tan, Tap, Tar, Tas, Taş, Tat, Tav, Tay, Tef, Tek, Tel, Tem, Ten, Ter, Tez, Tığ, Tıh, Tık, Tın, Tıp, Tır, Tıs, Tiğ, Tik, Tim, Tin, Tip, Tiz, Tok, Tol, Ton, Top, Tor, Tos, Toy, Toz, Tör, Tös, Töz, Tre, Tuğ, Tuh, Tul, Tun, Tur, Tuş, Tuz, Tüf, Tüh, Tül, Tüm, Tün, Tüp, Tür, Tüs, Tüş, Tüy
+Uav, Ubn, Ubs, Uca, Udi, Uek, Ulu, Umu, Una, Usa, Usu, Uzo
+Üce, Üge, Üne, Üre, Ürk, Üsk, Üst, Ütü, Üye
+Vah, Var, Vat, Vay, Vay, Vaz, Ver, Vıı, Vız
+Yaa, Yağ, Yak, Yal, Yam, Yan, Yas, Yaş, Yat, Yay, Yaz, Yed, Yeğ, Yek, Yel, Yem, Yen, Yer, Yet, Yığ, Yıl, Yır, Yış, Yir, Yiv, Yoğ, Yok, Yol, Yom, Yoz, Yön, Yuf, Yug, Yuğ, Yuh, Yum, Yük, Yün, Yüz
+Zaç, Zağ, Zam, Zan, Zar, Zat, Zed, Zel, Zem, Zen, Zer, Zıh, Zıp, Zıt, Zil, Zir, Zom, Zor, Zül
