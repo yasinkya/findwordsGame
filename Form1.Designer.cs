@@ -650,7 +650,7 @@
             this.Controls.Add(this.btnHgir);
             this.Controls.Add(this.btnRandom);
             this.Name = "Kelime_İşlem";
-            this.Text = "Kelime İşlem";
+            this.Text = "Sen Bul";
             this.Load += new System.EventHandler(this.Kelime_İşlem_Load);
             this.Enter += new System.EventHandler(this.btnCheck_Click);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.just_letter);

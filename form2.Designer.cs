@@ -613,7 +613,7 @@
             this.Controls.Add(this.btnHgir);
             this.Controls.Add(this.btnRandom);
             this.Name = "form2";
-            this.Text = "KelimeBul";
+            this.Text = "Sistem Bulsun";
             this.Load += new System.EventHandler(this.form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
