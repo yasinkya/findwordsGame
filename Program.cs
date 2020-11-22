@@ -8,17 +8,15 @@ namespace Yazılım_Yapımı_Ödev
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        /// <summary> /// The main entry point for the application. /// </summary>
         [STAThread]
-        static void Main()  //program.cs sınıfından hangi kısım çalıştırılmak istenirse
-        {                   // diğer kısım yorum satırına alınmalı
-
+        static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new form2());
+
+            //Application.Run(new form2());             
             Application.Run(new Kelime_İşlem());
+
         }
     }
 }
